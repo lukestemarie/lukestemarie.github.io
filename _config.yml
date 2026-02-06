@@ -1,4 +1,3 @@
-title: Luke Ste.Marie
-description: Mechanical Engineering Student | Fluids | Design | Simulation
 theme: minima
-markdown: kramdown
+minima:
+  skin: classic
