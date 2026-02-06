@@ -19,6 +19,6 @@ and experimental work**.
 
 ## Contact
 
-- Email: you@email.com  
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourname
+- Email: stemarieluke@gmail.com 
+- GitHub: https://github.com/lukestemarie  
+- LinkedIn: https://linkedin.com/in/lukestemarie
